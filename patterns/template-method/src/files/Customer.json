@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Kim Namjoon",
+    "age": "28",
+    "cpf": "349.774.870-60"
+  },
+  {
+    "name": "Kim Seokjin",
+    "age": "30",
+    "cpf": "861.504.810-00"
+  },
+  {
+    "name": "Min Yoongi",
+    "age": "29",
+    "cpf": "211.419.920-78"
+  },
+  {
+    "name": "Jung Hoseok",
+    "age": "28",
+    "cpf": "966.229.010-90"
+  },
+  {
+    "name": "Park Jimin",
+    "age": "27",
+    "cpf": "337.133.890-80"
+  },
+  {
+    "name": "Kim Taehyung",
+    "age": "27",
+    "cpf": "851.304.530-69"
+  },
+  {
+    "name": "Jeon Jeongguk",
+    "age": "25",
+    "cpf": "155.171.910-02"
+  }
+]
